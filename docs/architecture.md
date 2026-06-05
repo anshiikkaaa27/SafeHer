@@ -1,5 +1,5 @@
 # System Architecture
-
+```text
 Frontend (React)
         |
         v
@@ -10,6 +10,7 @@ Database (PostgreSQL)
         |
         v
 AI/ML Risk Detection Engine
+```
 
 Additional Services:
 - Location Tracking
