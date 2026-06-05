@@ -1,89 +1,31 @@
 # SafeHer
 
-## About the Project
+AI-Powered Women Safety Application
 
-SafeHer is an AI-powered women safety platform designed to provide proactive and real-time safety assistance. The platform combines emergency response mechanisms, location intelligence, and AI-driven risk detection to help women feel safer while traveling, commuting, or navigating unfamiliar environments.
-
-## Problem Statement
-
-Women often face safety concerns while traveling alone, especially in unfamiliar areas. Existing solutions are primarily reactive and provide limited preventive support.
+## Problem
+Women often face safety concerns while traveling or during emergencies.
 
 ## Solution
+SafeHer provides SOS alerts, live location tracking, emergency notifications, and AI-powered voice-triggered emergency detection.
 
-SafeHer aims to provide a comprehensive safety ecosystem through emergency alerts, live location tracking, AI-based risk assessment, and trusted contact integration.
-
-## Key Features
-
-### Emergency SOS
-- One-tap emergency activation
-- Instant alert notifications to trusted contacts
-
-### Live Location Sharing
-- Real-time location updates
-- Route monitoring for trusted contacts
-
-### Smart Risk Detection
-- AI-powered analysis of location-based safety indicators
-- Risk alerts for potentially unsafe areas
-
-### Voice-Activated Assistance
-- Hands-free emergency triggering
-- Quick response during critical situations
-
-### Trusted Contact Network
-- Emergency contact management
-- Instant communication during emergencies
-
-### Incident Reporting
-- Community-driven safety reporting
-- Anonymous incident submissions
-
-## Future Features
-
-- Predictive risk analysis
-- AI safety chatbot
-- Wearable device integration
-- Emergency service integration
-- Safe route recommendations
+## Features
+- SOS Alert
+- Live GPS Tracking
+- Emergency Contacts
+- Voice Activated SOS
+- Audio/Video Recording
+- Nearby Safe Zones
+- AI Threat Detection
 
 ## Tech Stack
-
-### Backend
-- FastAPI
+- Flutter
+- Firebase
+- Google Maps API
 - Python
+- AI/ML
 
-### Frontend
-- React.js
-
-### Database
-- PostgreSQL
-
-### AI/ML
-- Scikit-Learn
-- Pandas
-- NumPy
-
-### Version Control
-- Git
-- GitHub
-
-## Project Structure
-
-```text
-SafeHer/
-│
-├── docs/
-├── backend/
-├── frontend/
-├── assets/
-├── research/
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
-## Project Status
-Currently in Development
-
-## Author
-Anshika
+## Future Scope
+- Smartwatch Integration
+- Offline SOS
+- Police Integration
+- Unsafe Area Prediction
